@@ -89,7 +89,7 @@
 | Project | Description | Tech | Links |
 |---|---|---|---|
 | 🏢 **Praxit Web Solutions** | Official agency website - fast, SEO-friendly and built to bring local clients | React, Vercel | [Live](https://praxitwebsolutions.vercel.app/) · [Code](https://github.com/YOUR_USERNAME/REPO_NAME) |
-| 🛍️ **Maison Cyprus** | Premium fashion e-commerce website with catalogue, wishlist, filters and responsive design | React, Vite, Tailwind CSS | [Live](https://maisoncyprus.netlify.app/) · [Code](https://github.com/YOUR_USERNAME/maison-cyprus) |
+| 🛍️ **Maison Cyprus** | Premium fashion e-commerce website with catalogue, wishlist, filters and responsive design | React, Vite, Tailwind CSS | [Live](https://maisoncyprus.netlify.app) · [Code](https://github.com/YOUR_USERNAME/maison-cyprus) |
 | 💼 **Project 3** | EDIT: one line about what it does | Tech used | [Live](#) · [Code](#) |
 
 ---
