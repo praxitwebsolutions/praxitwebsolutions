@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+YOUR+NAME+%F0%9F%91%8B;Full+Stack+Web+Developer;Founder+of+Praxit+Web+Solutions;Fast%2C+modern+%26+SEO-friendly+websites" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Dixit Prajapati+%F0%9F%91%8B;Full+Stack+Web+Developer;Founder+of+Praxit+Web+Solutions;Fast%2C+modern+%26+SEO-friendly+websites" alt="Typing SVG" />
 
 ### 🚀 Praxit Web Solutions
 **Website development company in Gujarat** building fast, modern and SEO-friendly websites for businesses, startups and local brands.
