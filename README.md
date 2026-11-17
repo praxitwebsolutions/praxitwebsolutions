@@ -10,15 +10,15 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Dixit Prajapati+%F0%9F%91%8B;Full+Stack+Web+Developer;Founder+of+Praxit+Web+Solutions;Fast%2C+modern+%26+SEO-friendly+websites" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+DIXIT+PRAJAPATI+%F0%9F%91%8B;Full+Stack+Web+Developer;Founder+of+Praxit+Web+Solutions;Fast%2C+modern+%26+SEO-friendly+websites" alt="Typing SVG" />
 
 ### 🚀 Praxit Web Solutions
 **Website development company in Gujarat** building fast, modern and SEO-friendly websites for businesses, startups and local brands.
 
-[![Website](https://praxitwebsolutions.vercel.app/)
+[![Website](https://img.shields.io/badge/Visit_Praxit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://praxitwebsolutions.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Instagram](https://www.instagram.com/praxitwebsolutions/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/91XXXXXXXXXX)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/praxitwebsolutions/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919601676909)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praxitwebsolutions@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=00c2ff&style=flat" alt="Profile views" />
