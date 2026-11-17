@@ -89,7 +89,7 @@
 | Project | Description | Tech | Links |
 |---|---|---|---|
 | 🏢 **Praxit Web Solutions** | Official agency website - fast, SEO-friendly and built to bring local clients | React, Vercel | [Live](https://praxitwebsolutions.vercel.app/) · [Code](https://github.com/YOUR_USERNAME/REPO_NAME) |
-| 🛍️ **Maison Cyprus** | Premium fashion e-commerce website with catalogue, wishlist, filters and responsive design | React, Vite, Tailwind CSS | [Live](https://your-demo-link.com) · [Code](https://github.com/YOUR_USERNAME/maison-cyprus) |
+| 🛍️ **Maison Cyprus** | Premium fashion e-commerce website with catalogue, wishlist, filters and responsive design | React, Vite, Tailwind CSS | [Live](https://maisoncyprus.netlify.app/) · [Code](https://github.com/YOUR_USERNAME/maison-cyprus) |
 | 💼 **Project 3** | EDIT: one line about what it does | Tech used | [Live](#) · [Code](#) |
 
 ---
@@ -98,7 +98,7 @@
 
 Need a website for your shop, startup, clinic, restaurant or brand?
 
-[![Get a Free Quote](https://img.shields.io/badge/Get_a_Free_Quote-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/91XXXXXXXXXX)
+[![Get a Free Quote](https://img.shields.io/badge/Get_a_Free_Quote-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919601676909)
 [![View Our Work](https://img.shields.io/badge/View_Our_Work-Praxit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://praxitwebsolutions.vercel.app/)
 
 ---
